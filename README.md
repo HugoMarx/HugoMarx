@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-I'm Hugo, a curious and passionate PHP backend
-developer, when I'm not hunting down bugs, I
-explore new technologies to expand my skills and
-learn continuously.
+I'm Hugo, a curious backend developer.
 
-Let's get in touch !
+These days, I mostly work with Symfony and Go, with a strong interest in software craftsmanship and DevOps practices.
+
+When I'm not fixing bugs or contributing to open source, I'm probably exploring new technologies and continuously learning something new.
+
+Feel free to reach out — always happy to connect 🚀
 
 <!--
 **HugoMarx/HugoMarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
