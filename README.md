@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Hugo, a curious and passionate PHP backend
+developer, when I'm not hunting down bugs, I
+explore new technologies to expand my skills and
+learn continuously.
+
+Let's get in touch !
+
 <!--
 **HugoMarx/HugoMarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
