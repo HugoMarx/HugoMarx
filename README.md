@@ -8,6 +8,8 @@ When I'm not fixing bugs or contributing to open source, I'm probably exploring 
 
 Feel free to reach out — always happy to connect 🚀
 
+<!-- Add my tech stack -->
+
 <!--
 **HugoMarx/HugoMarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
