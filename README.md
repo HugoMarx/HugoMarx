@@ -12,6 +12,7 @@ Feel free to reach out — always happy to connect 🚀
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
+![DOCKER](https://camo.githubusercontent.com/8709250bbf63030139d0fba80ac65f9449a9ef3915dcd818a841afae0dad96f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c6174266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
