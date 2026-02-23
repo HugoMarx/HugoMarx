@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hugo, a curious backend developer.
+I'm Hugo
 
 These days, I mostly work with Symfony and Go, with a strong interest in software craftsmanship and DevOps practices.
 
